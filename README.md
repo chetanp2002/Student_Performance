@@ -67,7 +67,7 @@ This project focuses on predicting student performance in math using Linear Regr
 ```
 ##  live Demo
 
-![demo](https://drive.google.com/uc?id=1qFxCopO-_d6t7Hp7-bpd9qVLhBNkMMx9/view?usp=sharing)
+![demo]([https://drive.google.com/uc?id=1qFxCopO-_d6t7Hp7-bpd9qVLhBNkMMx9/view?usp=sharing](https://github.com/chetanp2002/images/blob/main/Screenshot%20(48).png))
 
 Deployed App Link: [Coming Soon]
 
